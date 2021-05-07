@@ -1,0 +1,7 @@
+osumania : 1
+osu : 0
+Catch the beat : 0
+Taiko : 0
+User Interface (UI): 0
+cursor : 0
+font : 0
