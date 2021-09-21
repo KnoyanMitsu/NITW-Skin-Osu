@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/Oshawott-kun/NITW-Skin-Osu/main/Banner%20Github.png" alt="Banner">
+
+
+
 Ok so
 
 this my project unofficial project i hope you like it
