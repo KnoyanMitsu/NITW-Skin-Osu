@@ -8,6 +8,5 @@ I still export to .osk so you import manual.HOW???
 
 &appdata&/../local/osu!/skins/
 
-here for directory. if you not understand just wait
+you can download my skin in <a href="https://github.com/Oshawott-kun/NITW-Skin-Osu/releases">here</a>
 
-i will make .OSK file
