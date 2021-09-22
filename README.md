@@ -44,6 +44,10 @@
   <td>Button UI</td>
   <td>false</td>
   </tr>
+    <tr>
+  <td>SFX</td>
+  <td>false</td>
+  </tr>
   </table>
   
   <h2>Decription</h2>
