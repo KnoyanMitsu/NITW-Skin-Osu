@@ -1,0 +1,42 @@
+info:  Game: CEPHtmlEngine.exe
+info:  DXVK: v1.9.2
+info:  Built-in extension providers:
+info:    Win32 WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+warn:  Skipping Vulkan 1.0 adapter: llvmpipe (LLVM 12.0.0, 256 bits)
+info:  NVIDIA GeForce 920M:
+info:    Driver: 470.82.0
+info:    Vulkan: 1.2.175
+info:    Memory Heap[0]: 
+info:      Size: 2048 MiB
+info:      Flags: 0x1
+info:      Memory Type[7]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 8913 MiB
+info:      Flags: 0x0
+info:      Memory Type[0]: Property Flags = 0x0
+info:      Memory Type[1]: Property Flags = 0x0
+info:      Memory Type[2]: Property Flags = 0x0
+info:      Memory Type[3]: Property Flags = 0x0
+info:      Memory Type[4]: Property Flags = 0x0
+info:      Memory Type[5]: Property Flags = 0x0
+info:      Memory Type[6]: Property Flags = 0x0
+info:      Memory Type[8]: Property Flags = 0x6
+info:      Memory Type[9]: Property Flags = 0xe
+info:  Intel(R) HD Graphics 5500 (BDW GT2):
+info:    Driver: 21.0.3
+info:    Vulkan: 1.2.145
+info:    Memory Heap[0]: 
+info:      Size: 8913 MiB
+info:      Flags: 0x1
+info:      Memory Type[0]: Property Flags = 0xf
+info:  DXGI: NvAPI workaround enabled, reporting AMD GPU
+info:  Adapter LUID 0: 0:411
+info:  DXGI: NvAPI workaround enabled, reporting AMD GPU
