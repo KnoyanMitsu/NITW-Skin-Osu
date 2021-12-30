@@ -18,11 +18,11 @@
   </tr>
   <tr>
   <td>Osu mode</td>
-  <td>False</td>
+  <td>True</td>
   </tr>
   <tr>
   <td>Osu Taiko</td>
-  <td>False</td>
+  <td>Half True</td>
   </tr>
   <tr>
   <td>Catch the beat</td>
